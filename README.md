@@ -9,7 +9,7 @@ A beginner-level Power BI dashboard created to analyze healthcare data related t
 - Power BI
 - Power Query
 - DAX
-- Excel
+  
 
 ## Dashboard Insights
 
